@@ -104,7 +104,7 @@ router.route('/bears')
 //checking master update...............................
 app.use('/api', router);
 
-// START THE SERVER
+// START THE SERVER ADDING COMMENTS AS I AM TESTING SOMETHING
 // =============================================================================
 app.listen(port);
 console.log('Magic happens on port ' + port);

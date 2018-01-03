@@ -101,6 +101,7 @@ router.route('/bears')
     });
 // REGISTER OUR ROUTES -------------------------------
 // all of our routes will be prefixed with /api
+//checking master update...............................
 app.use('/api', router);
 
 // START THE SERVER
